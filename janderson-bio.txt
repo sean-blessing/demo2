@@ -5,4 +5,5 @@ Start: May 1, 2017
 
 Experienced software instructor with deep knowledge of the following products:
 + Microsoft C#.Net
++ MySQL
 + Git & GitHub
